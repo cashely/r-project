@@ -1,0 +1,31 @@
+{
+  "name": "r-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cashely/r-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cashely/r-project/issues"
+  },
+  "homepage": "https://github.com/cashely/r-project#readme",
+  "dependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "webpack": "^5.65.0",
+    "webpack-dev-server": "^4.7.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.1"
+  }
+}
